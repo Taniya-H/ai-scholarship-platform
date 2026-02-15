@@ -154,8 +154,6 @@ This platform is more than code—it's a movement toward educational equity. We 
 
 Together, we can ensure that no student's potential is limited by financial barriers. Let's build a future where education is truly accessible to all.
 
-**Get Started**: [Live Demo](#) | [Documentation](.kiro/specs/) | [Contribute](#) | [Contact](#)
-
 
 *"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela*
 
