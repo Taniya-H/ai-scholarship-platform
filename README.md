@@ -2,7 +2,7 @@
 
 ## 1. Project Overview (Compelling Introduction)
 
-```markdown
+
 ## 🌟 About This Project
 
 In India, over 5,000 scholarships worth thousands of crores remain underutilized each year while millions of deserving students struggle to afford education. The problem isn't a lack of opportunities—it's the overwhelming complexity of finding them. Students face scattered information across hundreds of websites, eligibility criteria written in complex legal language, and content available only in English, creating an insurmountable barrier for rural and first-generation learners.
@@ -10,13 +10,11 @@ In India, over 5,000 scholarships worth thousands of crores remain underutilized
 Our AI-Based Scholarship & Financial Aid Eligibility Platform transforms this broken system into an intelligent, accessible solution. By leveraging Amazon Bedrock's advanced AI capabilities, we automatically match students with scholarships they're eligible for—no manual searching, no confusion, no missed opportunities. The platform speaks to students in their native language (Hindi, Tamil, Telugu, Bengali, and more), explains eligibility in simple terms, and even supports voice interaction for those with limited literacy. Built entirely on AWS serverless infrastructure, this solution scales effortlessly from helping a single student to serving millions across India.
 
 This isn't just a scholarship search engine—it's an AI-powered advisor that democratizes access to educational funding, ensuring that every eligible student, regardless of their background or language, can discover and apply for the financial aid they deserve.
-```
 
----
 
 ## 2. The Problem Statement (Detailed)
 
-```markdown
+
 ## 🎯 The Problem We're Solving
 
 Education is the great equalizer, but financial barriers prevent millions of talented Indian students from pursuing their dreams. While thousands of scholarships exist—from government schemes like the National Scholarship Portal to private foundations and institutional grants—the current system fails students in critical ways:
@@ -32,13 +30,12 @@ Education is the great equalizer, but financial barriers prevent millions of tal
 **Manual Overload**: Even when students find scholarships, they must manually check each one against their profile—a time-consuming process that leads to application fatigue and missed matches.
 
 The result? Eligible students never apply, scholarship funds go unused, and the education gap widens. Our platform solves this systemic failure with AI-powered automation, multilingual accessibility, and intelligent matching.
-```
 
----
+
 
 ## 3. Why AI is Essential (Technical Justification)
 
-```markdown
+
 ## 🤖 Why AI is the Game-Changer
 
 Traditional scholarship portals are essentially static databases with search filters—they shift the burden of eligibility evaluation entirely onto students. Our platform fundamentally reimagines this with AI at its core:
@@ -54,13 +51,13 @@ Traditional scholarship portals are essentially static databases with search fil
 **Continuous Learning**: As more students use the platform, the AI learns which explanations are most helpful, which search patterns are common, and how to better serve diverse student needs. This isn't possible with static rule-based systems.
 
 Without AI, this platform would be just another scholarship database. With AI, it becomes an intelligent advisor that levels the playing field for every student.
-```
 
----
+
+
 
 ## 4. Impact & Vision (Inspirational)
 
-```markdown
+
 ## 💫 Our Vision: Education for All
 
 Imagine a future where no deserving student misses a scholarship because they didn't know it existed, couldn't understand the eligibility criteria, or couldn't read English. That's the future we're building.
@@ -83,13 +80,13 @@ Imagine a future where no deserving student misses a scholarship because they di
 - Community features where students share success stories and tips
 
 Education is the most powerful tool for social mobility. Our platform ensures that financial barriers never stand between a student and their potential.
-```
 
----
+
+
 
 ## 5. Technical Excellence (For Technical Audience)
 
-```markdown
+
 ## 🛠️ Technical Architecture: Built for Scale
 
 This platform showcases modern cloud-native architecture and AI integration best practices:
@@ -111,13 +108,13 @@ This platform showcases modern cloud-native architecture and AI integration best
 **Cost Optimization**: DynamoDB on-demand pricing, Lambda reserved concurrency for predictable workloads, CloudFront caching, translation caching, and S3 Intelligent-Tiering combine to keep operational costs minimal while maintaining performance.
 
 This isn't just a hackathon project—it's production-ready architecture that can scale to serve millions of students across India.
-```
 
----
+
+
 
 ## 6. Hackathon Alignment (For Judges)
 
-```markdown
+
 ## 🏆 Hackathon Alignment: AI for Communities, Access & Public Impact
 
 This project exemplifies the hackathon's core themes:
@@ -135,13 +132,12 @@ This project exemplifies the hackathon's core themes:
 **Innovation**: While scholarship portals exist, none combine AI-powered matching, multilingual NLP, voice interaction, and intelligent notifications in a single platform. We're not incrementally improving an existing solution—we're reimagining how students discover financial aid.
 
 This project demonstrates that AI, when thoughtfully applied to real social problems, can create transformative impact at scale.
-```
 
----
+
+
 
 ## 7. Call to Action (Ending)
 
-```markdown
 ## 🚀 Join Us in Democratizing Education
 
 This platform is more than code—it's a movement toward educational equity. We invite you to:
@@ -160,18 +156,16 @@ Together, we can ensure that no student's potential is limited by financial barr
 
 **Get Started**: [Live Demo](#) | [Documentation](.kiro/specs/) | [Contribute](#) | [Contact](#)
 
----
 
 *"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela*
 
 **Let's make that weapon accessible to every student in India.**
-```
 
----
+
+
 
 ## 8. Quick Impact Summary (Concise)
 
-```markdown
 ## ⚡ Impact at a Glance
 
 **The Problem**: 5,000+ scholarships, millions of eligible students, but only 40% apply due to complexity and language barriers.
@@ -183,7 +177,6 @@ Together, we can ensure that no student's potential is limited by financial barr
 **The Impact**: 10,000+ students matched, ₹50 crore+ in scholarships accessed, 60%+ non-English users, 40%+ application conversion rate.
 
 **Why It Matters**: Every matched student is a life changed, a family uplifted, and a step toward educational equity in India.
-```
 
----
+
 
